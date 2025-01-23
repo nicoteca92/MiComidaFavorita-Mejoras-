@@ -24,10 +24,10 @@ Para instalar los archivos se requiere seguir los siguientes pasos:
 - Copiar la configuración de Firebase en el archivo /src/config/firebase.js "const firebaseConfig"
 
 3.- Copiar archivos
-Copiar todos los archivos del repositorio en la carpeta de su computador MiComidaFavorita
+- Copiar todos los archivos del repositorio en la carpeta 'MiComidaFavorita' de su computador.
 
 4.- Ejecución
-Ejecutar 'npx expo start' en el CMD y escanear código QR con ExpoGO en un dispositivo físico.
+- Ejecutar 'npx expo start' en el CMD y escanear código QR con ExpoGO en un dispositivo físico.
 
 
 MEJORAS IMPLEMENTADAS.
